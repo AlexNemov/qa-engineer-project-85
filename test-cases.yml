@@ -172,7 +172,7 @@
     - Авторизация отсутствует
   test-data: |
     Данные отсутствуют
-  steps: 
+  steps:
     – Нажимаем «TRY SIMPLE BATTLE»
   expected-result: |
     Открывается страница игры с ботом 
