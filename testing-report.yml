@@ -106,3 +106,15 @@
 - summary: |
     Ввод верного кода
   status: pass
+  
+- summary: |
+    Смена никнейма в настройках профиля
+  status: pass
+
+- summary: |
+    Привязка аккаунта Github/Discord к профилю
+  status: pass
+
+- summary: |
+    Удаление привязки аккаунта Github/Discord к профилю
+  status: fail
